@@ -216,3 +216,56 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ============================================================================
+# ML PROJECT SPECIFIC
+# ============================================================================
+
+# Data files (too large for Git)
+*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+data/raw/
+data/processed/
+
+# Model artifacts (use Git LFS for these if needed)
+*.pkl
+*.joblib
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+models/*.pkl
+models/*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Kaggle
+kaggle.json
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Reports (keep figures, ignore drafts)
+reports/drafts/
+*.log
