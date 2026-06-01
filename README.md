@@ -178,8 +178,8 @@ M.Sc. Economics, Indira Gandhi Institute of Development Research (IGIDR), Mumbai
 
 - 📧 Email: 25msceco021@igidr.ac.in
 - 💼 LinkedIn: [Anurag Jain](https://www.linkedin.com/in/anurag-jain-6b831b255/)
-- 📊 Kaggle: [Your Kaggle Profile](https://www.kaggle.com/anuragjaine)
-- 📁 GitHub: [Your GitHub Profile](https://github.com/anuragjaine)
+- 📊 Kaggle: [LINK](https://www.kaggle.com/anuragjaine)
+- 📁 GitHub: [LINK](https://github.com/anuragjaine)
 
 ---
 
